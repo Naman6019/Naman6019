@@ -34,7 +34,7 @@ I like building projects that are useful, practical, and close to real-world wor
 ## 🧩 What I'm Working On
 
 
-```md
+
 ### 🚀 FundersAI
 
 **FundersAI** is an AI-orchestrated financial research platform for Indian markets, built to help retail investors compare mutual funds, analyze market data, and generate research-backed insights through AI-powered workflows.
@@ -64,7 +64,7 @@ The platform combines **quantitative metrics, NAV history, news sentiment, fund 
 #### Tech Stack
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `FastAPI` · `Python` · `Supabase` · `PostgreSQL` · `Cloudflare R2` · `GitHub Actions` · `Vercel` · `Render`
-```
+
 
 
 ## 🛠️ Tech Stack
