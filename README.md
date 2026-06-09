@@ -12,7 +12,7 @@ Currently building at the intersection of **GenAI, automation, fintech, full-sta
 [![GitHub followers](https://img.shields.io/github/followers/Naman6019?style=social)](https://github.com/Naman6019)
 [![GitHub stars](https://img.shields.io/github/stars/Naman6019?style=social)](https://github.com/Naman6019?tab=stars)
 [![Twitter/X](https://img.shields.io/badge/X-@Capt6019-black?style=flat&logo=x)](https://twitter.com/Capt6019)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/naman_manocha19?igsh=MTI2MHA2OGxkdHlpag==)
 </div>
 
 ---
