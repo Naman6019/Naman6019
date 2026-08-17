@@ -193,14 +193,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naman6019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman6019&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Naman6019&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Naman6019&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Naman6019&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman6019&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
