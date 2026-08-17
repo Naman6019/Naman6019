@@ -14,7 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Naman6019?style=for-the-badge&logo=github&color=24292e)](https://github.com/Naman6019)
 [![X / Twitter](https://img.shields.io/badge/Twitter-@Capt6019-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Capt6019)
 [![Instagram](https://img.shields.io/badge/Instagram-@naman__manocha19-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naman_manocha19?igsh=MTI2MHA2OGxkdHlpag==)
-[![Portfolio](https://img.shields.io/badge/Live_App-FundersAI-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.fundersai.co.in)
+<a href="https://www.fundersai.co.in"><img src="https://raw.githubusercontent.com/Naman6019/FundersAI/main/frontend/public/FUNDERSAI-nobackground.png" alt="FundersAI Live" height="28" style="vertical-align: middle; margin-left: 6px;" /></a>
 
 </div>
 
@@ -42,6 +42,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://www.fundersai.co.in"><img src="https://raw.githubusercontent.com/Naman6019/FundersAI/main/frontend/public/FUNDERSAI-nobackground.png" alt="FundersAI Logo" height="42" /></a>
+      </div>
       <h3>📈 <a href="https://github.com/Naman6019/FundersAI">FundersAI</a></h3>
       <p><b>AI-orchestrated financial research workspace for Indian equities and mutual funds.</b></p>
       <p>
