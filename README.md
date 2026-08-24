@@ -86,17 +86,18 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Naman6019/git-resume-agent">GitResume AI</a></h3>
-      <p><b>Autonomous multi-agent resume & portfolio intelligence engine.</b></p>
+      <p><b>Autonomous Git-Driven Resume & Portfolio Agent (Zero-Touch Event-Driven CI/CD).</b></p>
       <p>
         <img src="https://img.shields.io/badge/Open_Source-MIT_Licensed-brightgreen?style=flat-square" alt="Open Source">
+        <img src="https://img.shields.io/badge/Pipeline-Zero--Touch_Hooks-orange?style=flat-square" alt="Zero-Touch Hooks">
+        <img src="https://img.shields.io/badge/Verification-Adversarial_Critic-blue?style=flat-square" alt="Adversarial Critic">
         <img src="https://img.shields.io/badge/Inference-Ollama_Cloud-purple?style=flat-square" alt="Ollama Cloud">
-        <img src="https://img.shields.io/badge/Verification-Anti--Hallucination-blue?style=flat-square" alt="Anti-Hallucination">
       </p>
       <ul>
-        <li><b>Perception Engine</b>: Real-time Git tree inspection across commits, lines of code, and AST diffs in &lt;5ms.</li>
+        <li><b>Perception & Schema Discovery</b>: Real-time git diff & AST inspection (&lt;5ms) with automated README/manifest sync into <code>gitresume.yaml</code>.</li>
         <li><b>Google XYZ Synthesis</b>: Uses flagship LLMs (<code>kimi-k2.7-code</code>, <code>qwen2.5-coder</code>) to generate role-tailored engineering impact bullets.</li>
-        <li><b>Grounding Guardrail</b>: Adversarial critic agent ensuring every metric and technology claim is mathematically grounded in git commits.</li>
-        <li><b>Zero-Touch Git Hooks</b>: Automatically recompiles Word (<code>.docx</code>) and headless PDF resumes upon every git commit.</li>
+        <li><b>Adversarial Critique</b>: Grounding verifier critic mathematically validating cited metrics and frameworks against commit trees to eliminate hallucinations.</li>
+        <li><b>Zero-Touch Dual-Tier Sync</b>: Post-commit hooks trigger headless Word COM PDF compilation and sync directly to live portfolio endpoints upon every <code>git commit</code>.</li>
       </ul>
       <p><code>Python</code> · <code>Typer</code> · <code>Rich</code> · <code>Ollama Cloud</code> · <code>python-docx</code> · <code>GitPython</code> · <code>Pytest</code></p>
     </td>
