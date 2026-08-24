@@ -16,6 +16,7 @@
 [![X / Twitter](https://img.shields.io/badge/Twitter-@Capt6019-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Capt6019)
 [![Instagram](https://img.shields.io/badge/Instagram-@naman__manocha19-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naman_manocha19?igsh=MTI2MHA2OGxkdHlpag==)
 <a href="https://www.fundersai.co.in"><img src="https://raw.githubusercontent.com/Naman6019/FundersAI/main/frontend/public/FUNDERSAI-nobackground.png" alt="FundersAI Live" height="28" style="vertical-align: middle; margin-left: 6px;" /></a>
+<a href="https://all-things-agentic--allthingsagentic-505213.asia-southeast1.hosted.app"><img src="https://raw.githubusercontent.com/Naman6019/all-things-agentic/main/career-agent/frontend/public/brand/talentos-mark.png" alt="TalentOS Live" height="28" style="vertical-align: middle; margin-left: 6px;" /></a>
 
 </div>
 
@@ -63,6 +64,9 @@
       <p><code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind 4</code> · <code>FastAPI</code> · <code>Python</code> · <code>Qdrant</code> · <code>Supabase</code> · <code>Cloudflare R2</code> · <code>LangGraph</code></p>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://all-things-agentic--allthingsagentic-505213.asia-southeast1.hosted.app"><img src="https://raw.githubusercontent.com/Naman6019/all-things-agentic/main/career-agent/frontend/public/brand/talentos-lockup.png" alt="TalentOS Logo" height="42" /></a>
+      </div>
       <h3>🕵️ <a href="https://github.com/Naman6019/all-things-agentic">TalentOS (All Things Agentic)</a></h3>
       <p><b>Autonomous opportunity intelligence platform (Taskmaster Track Winner Candidate).</b></p>
       <p>
