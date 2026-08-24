@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Naman6019/git-resume-agent">GitResume AI</a></h3>
+      <h3>🤖 <a href="https://github.com/Naman6019/git-resume-agent">GitResume Agent</a></h3>
       <p><b>Autonomous Git-Driven Resume & Portfolio Agent (Zero-Touch Event-Driven CI/CD).</b></p>
       <p>
         <img src="https://img.shields.io/badge/Open_Source-MIT_Licensed-brightgreen?style=flat-square" alt="Open Source">
