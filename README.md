@@ -88,15 +88,16 @@
       <h3>🤖 <a href="https://github.com/Naman6019/git-resume-agent">GitResume Agent</a></h3>
       <p><b>Autonomous Git-Driven Resume & Portfolio Agent (Zero-Touch Event-Driven CI/CD).</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Open_Source-MIT_Licensed-brightgreen?style=flat-square" alt="Open Source">
+        <a href="https://pypi.org/project/git-resume-agent/0.2.0/"><img src="https://img.shields.io/pypi/v/git-resume-agent.svg?style=flat-square&color=blue" alt="PyPI v0.2.0"></a>
         <img src="https://img.shields.io/badge/Pipeline-Zero--Touch_Hooks-orange?style=flat-square" alt="Zero-Touch Hooks">
         <img src="https://img.shields.io/badge/Verification-Adversarial_Critic-blue?style=flat-square" alt="Adversarial Critic">
-        <img src="https://img.shields.io/badge/Inference-Ollama_Cloud-purple?style=flat-square" alt="Ollama Cloud">
+        <img src="https://img.shields.io/badge/Links-Clickable_Hyperlinks-00E5FF?style=flat-square" alt="Clickable Hyperlinks">
       </p>
       <ul>
-        <li><b>Perception & Schema Discovery</b>: Real-time git diff & AST inspection (&lt;5ms) with automated README/manifest sync into <code>gitresume.yaml</code>.</li>
-        <li><b>Google XYZ Synthesis</b>: Uses flagship LLMs (<code>kimi-k2.7-code</code>, <code>qwen2.5-coder</code>) to generate role-tailored engineering impact bullets.</li>
-        <li><b>Adversarial Critique</b>: Grounding verifier critic mathematically validating cited metrics and frameworks against commit trees to eliminate hallucinations.</li>
+        <li><b>PyPI Package (v0.2.0)</b>: Production CLI tool (<code>pip install git-resume-agent</code>) automating live codebase synchronization.</li>
+        <li><b>Perception & Schema Discovery</b>: Real-time git diff & AST inspection (&lt;5ms) with automated remote extraction and README sync into <code>gitresume.yaml</code>.</li>
+        <li><b>Dual-Link & Clickable Hyperlinks</b>: Intelligently formats live deployments and in-repo repositories with native Word & PDF clickable hyperlinks.</li>
+        <li><b>Google XYZ Synthesis & Critique</b>: Flagship LLMs craft role-tailored accomplishment bullets with AST-grounded adversarial verification.</li>
         <li><b>Zero-Touch Dual-Tier Sync</b>: Post-commit hooks trigger headless Word COM PDF compilation and sync directly to live portfolio endpoints upon every <code>git commit</code>.</li>
       </ul>
       <p><code>Python</code> · <code>Typer</code> · <code>Rich</code> · <code>Ollama Cloud</code> · <code>python-docx</code> · <code>GitPython</code> · <code>Pytest</code></p>
