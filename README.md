@@ -28,14 +28,14 @@
  ┌─────────────────────────┐    ┌─────────────────────────┐    ┌─────────────────────────┐
  │   Autonomous Agents     │    │  Quantitative Fintech   │    │  Cloud & Microservices  │
  │ Google ADK · LangGraph  │ ── │ Supabase-First · R2 Cold│ ── │ Next.js 16 · FastAPI    │
- │ Multi-Agent Evals & RAG │    │ 22 GitHub Actions CI/CD │    │ Docker · Cloud Run      │
+ │ Multi-Agent Evals & RAG │    │ 24 GitHub Actions CI/CD │    │ Docker · Cloud Run      │
  └─────────────────────────┘    └─────────────────────────┘    └─────────────────────────┘
 ```
 
 - 🤖 **Frontier AI & Autonomous Agents**: Multi-agent graph orchestration with Google ADK, LangGraph, tool-calling pipelines, strict abstention guards, and automated evaluation frameworks.
 - 📈 **Quantitative Fintech & High-Throughput Ingestion**: Real-time research platform for Indian equities and mutual funds with automated disclosure ingestion across 12+ AMCs (~145K LOC, 400+ commits).
 - 🔬 **Domain RAG & Machine Learning**: Hybrid vector retrieval (Qdrant + dense/sparse embeddings), RAFT (Retrieval Augmented Fine-Tuning) domain adaptation, and explainable provenance.
-- 🛠️ **Full-Stack Production Systems**: Production architectures with Next.js 16 (App Router), React 19, FastAPI, PostgreSQL, Supabase, Cloudflare R2, Google Cloud Run, and 22+ automated CI/CD workflows.
+- 🛠️ **Full-Stack Production Systems**: Production architectures with Next.js 16 (App Router), React 19, FastAPI, PostgreSQL, Supabase, Cloudflare R2, Google Cloud Run, and 24+ automated CI/CD workflows.
 
 ---
 
@@ -55,11 +55,11 @@
         <img src="https://img.shields.io/badge/Submission-OpenAI_Build_Week-412991?style=flat-square" alt="OpenAI Build Week">
       </p>
       <ul>
-        <li><b>Scale & Testing</b>: ~145K lines of code across 760+ files, 406 commits, and 141+ automated test suites.</li>
-        <li><b>Synthesis Intelligence Engine</b>: Deep-dive fund intelligence, portfolio overlap analyzer, and downloadable institutional PDF reports.</li>
-        <li><b>Intent-Driven Research Chat</b>: Specialized routing across equities, mutual funds, macro trends, and side-by-side fund comparisons.</li>
-        <li><b>Automated Pipeline</b>: 22 GitHub Actions workflows orchestrating NAV sync, AMFI data, and official monthly disclosure parsing across 12+ AMCs.</li>
-        <li><b>Strict Abstention & Hybrid Search</b>: Fused Qdrant vector retrieval with PostgreSQL, enforcing AMC separation guards and third-party quota protection.</li>
+        <li><b>Scale & Testing</b>: ~150K lines of code across 760+ files, 450+ commits, and 1,250+ automated tests (1,100 backend + 150 frontend).</li>
+        <li><b>Synthesis Intelligence & Public Tools</b>: Deep-dive fund intelligence, Portfolio Overlap Analyzer, deterministic SIP Compounding Calculator, and downloadable institutional PDF reports.</li>
+        <li><b>Fund Truth Check & Research Chat</b>: Rules-first 5-stage factual claim verification against official AMC factsheets, with specialized intent routing across equities and funds.</li>
+        <li><b>Automated Pipeline & Onboarding</b>: 24 GitHub Actions workflows orchestrating NAV sync, AMFI data, and official monthly disclosure parsing across 25+ Indian AMCs (42 in discovery registry).</li>
+        <li><b>Microservice Architecture</b>: Next.js 16 frontend on Vercel, FastAPI backend on Render, and LangGraph Reports Microservice deployed on AWS EC2 (K3s).</li>
       </ul>
       <p><code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind 4</code> · <code>FastAPI</code> · <code>Python</code> · <code>Qdrant</code> · <code>Supabase</code> · <code>Cloudflare R2</code> · <code>LangGraph</code></p>
     </td>
@@ -80,7 +80,7 @@
         <li><b>Serverless Production</b>: Containerized execution on Google Cloud Run with Firestore state persistence and Secret Manager IAM resolution.</li>
         <li><b>Codebase Metrics</b>: ~32K lines of code across 158 files, 51 commits, and 26 test suites (235+ unit tests).</li>
       </ul>
-      <p><code>Python</code> · <code>Google ADK</code> · <code>LangGraph</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Firestore</code> · <code>Google Cloud Run</code></p>
+      <p><code>Python</code> · <code>Google ADK</code> · <code>LangGraph</code> · <code>Next.js 16</code> · <code>TypeScript</code> · <code>Firestore</code> · <code>Google Cloud Run</code></p>
     </td>
   </tr>
   <tr>
@@ -110,11 +110,11 @@
         <img src="https://img.shields.io/badge/Search-Hybrid_Vector_RAG-00C7B7?style=flat-square" alt="Hybrid RAG">
       </p>
       <ul>
-        <li><b>RAFT Clinical Fine-Tuning</b>: Fine-tuned on specialized clinical reasoning datasets for high-precision, hallucination-resistant medical guidance.</li>
-        <li><b>Hybrid Vector RAG</b>: Multi-stage retrieval combining dense ChromaDB embeddings and BM25 lexical reranking.</li>
-        <li><b>Explainable Provenance</b>: Highlights confidence bounds and direct clinical reference citations for every assertion.</li>
+        <li><b>Clinical Knowledge & Data Ingestion</b>: High-fidelity MITRE Synthea™ cohort timeline (18 clinical tables) with ingestion for FDA package inserts, PubMed trials, and ADA/AHA guidelines.</li>
+        <li><b>RAFT Clinical Fine-Tuning</b>: Unsloth 4-bit QLoRA fine-tuning with oracle ground truth, hard distractors, and 20% clinical abstention cases for private Ollama inference.</li>
+        <li><b>Bounded RAG & Verification</b>: Strict bounded tool loop with mandatory PostgreSQL GIN tsvector citation validation and 21 passing automated tests.</li>
       </ul>
-      <p><code>FastAPI</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>ChromaDB</code> · <code>Unsloth</code> · <code>PyTorch</code></p>
+      <p><code>Next.js 16</code> · <code>React 19</code> · <code>Tailwind 4</code> · <code>FastAPI</code> · <code>PostgreSQL 17</code> · <code>Supabase</code> · <code>Unsloth</code> · <code>Ollama</code></p>
     </td>
   </tr>
   <tr>
